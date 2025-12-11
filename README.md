@@ -31,14 +31,16 @@ They cover scenarios such as user authentication, navigation, and interactions w
 <br>
 
 ## API Test
+### JSONPlaceholder (https://jsonplaceholder.typicode.com/)
 - https://shorturl.asia/8eM4a
 <br>
 
 ## Creating a website using API
-
+- https://github.com/dontida10809-oss/Pokemon-reactjs-api
+<br>
 
 ## NOTE
-I'm learning, so if you find anything interesting or peculiar, I'd love to discuss! Feel free to open issues or propose improvements.http://localhost:9323/
+I'm learning, so if you find anything interesting or peculiar, I'd love to discuss! Feel free to open issues or propose improvements.
 <br>
 <br>
 <br>
@@ -50,9 +52,6 @@ I'm learning, so if you find anything interesting or peculiar, I'd love to discu
 
 This project contains Playwright automated tests for https://www.saucedemo.com/.
 
-## Requirements
-- Node.js (>=14)
-- npm
 
 ```
 
