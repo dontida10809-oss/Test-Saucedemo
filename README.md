@@ -12,13 +12,20 @@ From testing from the website [Saucedemo.com](https://www.saucedemo.com/) (Swag 
 
 
 ## Test Case
- Google sheet: https://shorturl.asia/TK8AI <br>
-<br>
-## Test Automate Testing
-I tested automate testing by playwite with javascript.<br>
+ - Google sheet: https://shorturl.asia/TK8AI <br>
+ 
+
+## Automate Testing
+- http://localhost:9323/ <br>
+- I tested automate testing by playwite with javascript.<br>
 End-to-End (E2E) Tests
 - E2E tests, located in e2e/, aim to verify the complete functionality of the application. <br>
 They cover scenarios such as user authentication, navigation, and interactions with different pages.
+### Test Bug on Automate Testing
+- http://localhost:9323/
+- <img width="1920" height="981" alt="Bug-001" src="https://github.com/user-attachments/assets/a2257086-0738-4a65-b855-5f0026feddea" />
+
+
 <br>
 <br>
 <br>
@@ -27,9 +34,11 @@ They cover scenarios such as user authentication, navigation, and interactions w
 - https://shorturl.asia/8eM4a
 <br>
 
+## Creating a website using API
+
+
 ## NOTE
-I'm learning, so if you find anything interesting or peculiar, I'd love to discuss! Feel free to open issues or propose improvements.
-http://localhost:9323/
+I'm learning, so if you find anything interesting or peculiar, I'd love to discuss! Feel free to open issues or propose improvements.http://localhost:9323/
 <br>
 <br>
 <br>
