@@ -23,9 +23,13 @@ They cover scenarios such as user authentication, navigation, and interactions w
 <br>
 <br>
 
+## API Test
+- https://shorturl.asia/8eM4a
+<br>
+
 ## NOTE
 I'm learning, so if you find anything interesting or peculiar, I'd love to discuss! Feel free to open issues or propose improvements.
-
+http://localhost:9323/
 <br>
 <br>
 <br>
@@ -41,13 +45,6 @@ This project contains Playwright automated tests for https://www.saucedemo.com/.
 - Node.js (>=14)
 - npm
 
-## Setup
-```bash
-# install dependencies
-npm install
-
-# install browsers
-npx playwright install
 ```
 
 ## Run tests
