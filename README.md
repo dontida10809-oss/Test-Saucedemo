@@ -32,10 +32,13 @@ They cover scenarios such as user authentication, navigation, and interactions w
 
 ## API Test
 ### JSONPlaceholder (https://jsonplaceholder.typicode.com/)
+- https://github.com/dontida10809-oss/PORTFOLIO/blob/main/TestJSONPlaceholder.postman_collection.json
+  <br>
+### POSTMAN
 - https://shorturl.asia/8eM4a
 <br>
 
-## Creating a website using API
+## Creating a website using API POKEMON
 - https://github.com/dontida10809-oss/Pokemon-reactjs-api
 <br>
 
