@@ -5,7 +5,7 @@
 <br>I am eager to learn different testing methods, write Test Cases, and use basic testing tools such as Jira and TestRail. Additionally, I am interested in learning automation testing—although I have not yet used automation frameworks, I am motivated and ready to start from the basics.<br>
 <br>I am a fast learner, detail-oriented, and enjoy solving problems with logical thinking. I am excited to apply my skills and enthusiasm to gain practical experience in software testing as an intern.
 
-## PROJECTS
+## PROJECTS SELF LEARNING
 <br>
 From testing from the website [Saucedemo.com](https://www.saucedemo.com/) (Swag Labs) is a sample website created by Sauce Labs for people to practice doing Browser Automation and Test Automation. It is a simulated E-commerce website with complete features for testers to practice testing.<br>
 <br>
@@ -16,7 +16,7 @@ From testing from the website [Saucedemo.com](https://www.saucedemo.com/) (Swag 
  
 
 ## Automate Testing
-- http://localhost:9323/ <br>
+- https://github.com/dontida10809-oss/PORTFOLIO <br>
 - I tested automate testing by playwite with javascript.<br>
 End-to-End (E2E) Tests
 - E2E tests, located in e2e/, aim to verify the complete functionality of the application. <br>
@@ -31,7 +31,7 @@ They cover scenarios such as user authentication, navigation, and interactions w
 <br>
 
 ## API Test
-### JSONPlaceholder (https://jsonplaceholder.typicode.com/)
+### JSONPlaceholder https://jsonplaceholder.typicode.com/
 - https://github.com/dontida10809-oss/PORTFOLIO/blob/main/TestJSONPlaceholder.postman_collection.json
   <br>
 ### POSTMAN
