@@ -42,6 +42,10 @@ They cover scenarios such as user authentication, navigation, and interactions w
 - https://github.com/dontida10809-oss/Pokemon-reactjs-api
 <br>
 
+## Data Analyst
+- 
+
+
 ## NOTE
 I'm learning, so if you find anything interesting or peculiar, I'd love to discuss! Feel free to open issues or propose improvements.
 <br>
