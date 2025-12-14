@@ -43,7 +43,7 @@ They cover scenarios such as user authentication, navigation, and interactions w
 <br>
 
 ## Data Analyst
-- 
+- https://github.com/dontida10809-oss/customer-churn-analysis
 
 
 ## NOTE
