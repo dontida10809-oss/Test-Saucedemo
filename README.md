@@ -44,6 +44,9 @@ They cover scenarios such as user authentication, navigation, and interactions w
 
 ## Creating a website using API POKEMON
 - https://github.com/dontida10809-oss/Pokemon-reactjs-api
+  <img width="401" height="862" alt="image (1)" src="https://github.com/user-attachments/assets/bf0f156e-92d6-48f0-b4ef-eb19e45d959d" />
+<img width="528" height="900" alt="image" src="https://github.com/user-attachments/assets/bdcd0610-d15c-4de8-bf54-789bafedfc8a" />
+
 <br>
 
 ## Data Analyst
